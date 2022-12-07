@@ -8,5 +8,5 @@ It is a simple Python GUI based application for steganography. It also offers pa
 3. Cryptography module
 
 
-#Demo 
+# Demo 
 https://www.youtube.com/watch?v=1pe6QQLw_fA
